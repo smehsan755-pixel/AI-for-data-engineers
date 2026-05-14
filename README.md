@@ -1,6 +1,5 @@
 # AI for Data Engineers
 
-A technical content portfolio focused on AI-assisted workflows, SQL productivity, and modern data engineering education.
 
 ## Articles
 
