@@ -1,7 +1,5 @@
 # AI for Data Engineers
 
-A technical content portfolio focused on AI-assisted workflows, SQL productivity, and modern data engineering education.
-
 ## Articles
 
 ### 1. Beginner Guide to dbt
@@ -20,12 +18,10 @@ A technical content portfolio focused on AI-assisted workflows, SQL productivity
 
 ## Tools Needed
 
-- ChatGPT
-- Claude
+- ChatGPT/Claude 
 - VS Code
 - GitHub
 - SQL
-- dbt
 
 ## Goals
 
