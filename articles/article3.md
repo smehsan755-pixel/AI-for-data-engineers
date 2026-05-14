@@ -1,6 +1,6 @@
 # AI for Data Documentation
 
-AI tools can help data teams generate documentation faster.
+AI tools can be helpful for data teams for generating documentation faster.
 
 ## Benefits
 
