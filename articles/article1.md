@@ -2,7 +2,7 @@
 
 ## What is dbt?
 
-dbt (data build tool) helps data teams transform raw SQL data into organized analytics workflows.
+dbt (data build tool) is helpful for data teams for transforming raw SQL data into organized analytics workflows.
 
 ## Why Developers Use dbt
 
@@ -23,4 +23,4 @@ GROUP BY customer_id;
 
 ## Key Takeaway
 
-dbt helps data engineers treat SQL like software engineering.
+dbt is helpful for data engineers for treating SQL like software engineering.
