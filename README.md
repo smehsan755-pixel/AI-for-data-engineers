@@ -7,14 +7,12 @@
 - Using AI to Generate SQL Faster
 - AI for Data Documentation
 
-## Tools Used
+## Tools Needed
 
-- ChatGPT
-- Claude
+- ChatGPT/ Claude
 - GitHub
 - VS Code
 - SQL
-- dbt
 
 ## Goals
 
